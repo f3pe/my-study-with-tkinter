@@ -1,4 +1,4 @@
-# 🚀 Meus Projetos em Python
+# 🚀 Meus Projetos de estudo da biblioteca tkinter
 
 Olá esse repositorio são apenas alguns projetos que fiz para praticar com tkinter. Sinta-se a vontade para dar uma olhada, os projetos foram inspirados nos tutoriais disponiveis em https://www.geeksforgeeks.org/python/python-tkinter-tutorial/.
 
