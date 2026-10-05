@@ -60,7 +60,7 @@ Aqui eu me diverti um pouco. Esse Script consulta um link com os dados dos campe
      ```bash
      python "calculadora/calculator.py"
      ```
-   * Representação de Dados:
+   * Sortear um campeão de League of legends:
      ```bash
      python "lendo dados de API/lol_champion_randomizer.py"
      ```
